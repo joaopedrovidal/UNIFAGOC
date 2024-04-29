@@ -1,0 +1,34 @@
+main{
+    display:flex;
+    justify-content: center;
+}
+
+.container{
+    border: 1px solid black;
+    width: 250px;
+    height: 175px;
+    display: flex;
+    background-color: beige;
+}
+
+button{
+    margin-top: 40px;
+    color: white;
+    background-color: green;
+    margin-left: -119px;
+}
+
+input{
+    margin-top: 10px;
+    height: 20px;
+    margin-left: 35px;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.flexitem{
+    display: flex;
+    flex-direction: column;
+}
